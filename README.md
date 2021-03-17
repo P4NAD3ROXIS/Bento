@@ -1,10 +1,10 @@
 <div align="center">
     <h1>Bento</h1>
-    <b>🍱 A Clean and Simple Startpage</b>
+    <b>🍱 A Clean Startpage for firefox, in Sadwintosh theme</b>
 </div>
 
 <p align="center">
-  <img src="https://github.com/MiguelRAvila/Bento/blob/master/assets/Header.png">
+  <img src="https://github.com/MiguelRAvila/Bento/blob/master/assets/Header.jpg">
 </p>
 
 >  Wallpaper by [anima_contritum](https://www.reddit.com/user/anima_contritum)
