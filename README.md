@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Bento</h1>
-    <b>🍱 A Clean Startpage for firefox, in Sadwintosh theme</b>
+    <h1>SadBento</h1>
+    <b>🍱 A Clean Startpage for firefox, based on Sadwintosh theme</b>
     
     
 </div>
