@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/MiguelRAvila/Bento/blob/master/assets/Header.jpg">
+  <img src="https://github.com/MiguelRAvila/Bento/blob/master/assets/Header.png">
 </p>
 
 >  Wallpaper by [anima_contritum](https://www.reddit.com/user/anima_contritum)
